@@ -13,4 +13,4 @@ A comparative analysis of trending videos between India and the USA using:
 📁 Files Included:
 - `YouTube_Trending_Analysis.pbix` – Power BI file
 - `YouTube_Trending_Analysis.pdf` – Exported Dashboard
-- 
+- `Youtube_trending_video_analysis.ipynb`-Google collab code using python
