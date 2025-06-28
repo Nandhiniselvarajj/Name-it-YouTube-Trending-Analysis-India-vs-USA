@@ -1,16 +1,16 @@
  ## YouTube Trending Video Analysis (India vs USA)
 
-A comparative analysis of trending videos between India and the USA using:
+## A comparative analysis of trending videos between India and the USA using:
 - Python (Pandas, Seaborn)
 - Power BI for interactive dashboard
 
- 📊 Dashboard Highlights:
+##  📊 Dashboard Highlights:
 - Top Categories per Country
 - Average Views and Likes by Category
 - Use of Capital Letters in Titles
 - Data Cleaning & Preprocessing
 
-📁 Files Included:
+## 📁 Files Included:
 - `YouTube_Trending_Analysis.pbix` – Power BI file
 - `YouTube_Trending_Analysis.pdf` – Exported Dashboard
 - `Youtube_trending_video_analysis.ipynb`-Google collab code using python
